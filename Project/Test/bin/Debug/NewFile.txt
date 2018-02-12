@@ -1,0 +1,197 @@
+1,Afghanistan,Kabul,Afghani,Pashto and Dari (Persian)
+2,Albania,Tirane,Lek,Albanian
+3,Algeria,Algiers,Dinar,Araic
+4,Andorra,Andorra la Vella,Euro,Catalan
+5,Angola,Luanda,Kwanza,Portuguese
+6,Antigua,Saint John�s,East Caribbean,Dollar,English
+7,Barbuda,Saint John�s,East Caribbean,Dollar,English
+8,Argentina,Buenos Aires,Peso,Spanish
+9,Armenia,Yerevan,Dram,Armenian
+10,Australia,Canberra,Australian dollar,English
+11,Austria,Vienna,Euro,German
+12,Azerbaijan,Baku,Manat,Azerbaijani
+13,The Bahamas,Nassau,Bahamian Dollar,English
+14,Bahrain,Manama,Bahraini dinar,Arabic
+15,Bangladesh,Dhaka,Taka,Bengali
+16,Barbados,Bridgetown,Barbadian Dollar,English
+17,Belarus,Minsk,Belarusian ruble,Belarusian and Russian
+18,Belgium,Brussels,Euro,Dutch French and German
+19,Belize,Belmopan,Belize Dollar,English
+20,Benin,Porto-Novo,CFA franc,French
+21,Bhutan,Thimphu,Bhutanese ngultrum,Dzongkha
+22,Bolivia,Sucre (constitutional);La Paz (administrative),Boliviano,Spanish Quechua and Aymara
+23,Bosnia,Sarajevo,Convertible mark,Bosnian Croatian and Serbian
+24,Herzegovina,Sarajevo,Convertible mark,Bosnian Croatian and Serbian
+25,Botswana,Gaborone,Pula,English and Setswana
+26,Brazil,Brasilia,Real,Portuguese
+27,Brunei,Bandar Seri Begawan,Brunei dollar,Bahasa Melayu
+28,Bulgaria,Sofia,Lev,Bulgarian
+29,Burkina Faso,Ouagadougou,CFA franc,French
+30,Burundi,Bujumbura,Burundian franc,Kirundi and French
+31,Cambodia,Phnom Penh,Riel,Khmer
+32,Cameroon,Yaounde,CFA franc,French and English
+33,Canada,Ottawa,Canadian Dollar,French and English
+34,Cape Verde,Praia,Cape Verdean escudo,Portuguese
+35,Central African Republic,Bangui,CFA franc,French and Sango
+36,Chad,N�Djamena,CFA franc,French and Arabic
+37,Chile,Santiago,Peso,Spanish
+38,China,Beijing,Renminbi (yuan),Standard Chinese
+39,Colombia,Bogota,Peso,Spanish
+40,Comoros,Moroni,Comorian franc,Comorian Arabic and French
+41,Congo (Congo-Brazzaville),Brazzaville,CFA franc,French
+42,Democratic Republic of the Congo,Kinshasa,Congolese franc,French
+43,Costa Rica,San Jose,Costa Rican colon,Spanish
+44,Cote d�Ivoire (Ivory Coast),Yamoussoukro,CFA franc,French
+45,Croatia,Zagreb,Kuna,Croatian
+46,Cuba,Havana,Cuban peso,Spanish
+47,Cyprus,Nicosia,Euro,Greek and Turkish
+48,Czech Republic,Prague,Czech koruna,Czech
+49,Denmark,Copenhagen,Danish krone,Danish
+50,Djibouti,Djibouti,Djiboutian franc,French and Arabic
+51,Dominica,Roseau,Dominican peso,Spanish
+52,Dominican Republic,Santo Domingo,Dominican peso,Spanish
+53,East Timor (Timor-Leste),Dili,US Dollar,Portuguese and Tetum
+54,Ecuador,Quito,United States dollar,Spanish
+55,Egypt,Cairo,Egyptian pound,Arabic
+56,El Salvador,San Salvador,United States Dollar,Spanish
+57,Equatorial Guinea,Malabo,Equatorial Guinean peseta,Spanish French and Portuguese
+58,Eritrea,Asmara,Tallero,Tigrinya English and Arabic
+59,Estonia,Tallinn,Euro,Estonian
+60,Ethiopia,Addis Ababa,Birr,Amharic
+61,Fiji,Suva,Fijian dollar,English Hindi and Fijian	 
+62,Finland,Helsinki,Euro,Finnish and Swedish
+63,France,Paris,Euro and CFP franc,French
+64,Gabon,Libreville,CFA franc,French
+65,Gambia,Banjul,Gambian dalasi,English
+66,Georgia,Tbilisi,Lari,Georgian
+67,Germany,Berlin,Euro,German
+68,Ghana,Accra,Ghana cedi,English
+69,Greece,Athens,Euro,Greek
+70,Grenada,Saint George�s,East Caribbean Dollar,English
+71,Guatemala,Guatemala City,Guatemalan quetzal,Spanish
+72,Guinea,Conakry,Guinean franc,French
+73,Guinea-Bissau,Bissau,CFA franc,Portuguese
+74,Guyana,Georgetown,Guyanese dollar,English
+75,Haiti,Port-au-Prince,Haitian gourde,French
+76,Honduras,Tegucigalpa,Honduran lempira,Spanish
+77,Hungary,Budapest,Forint,Hungarian
+78,Iceland,Reykjavik,Icelandic kr�na,Icelandic
+79,India,New Delhi,Rupee,Hindi and English
+80,Indonesia,Jakarta,Rupiah,Indonesian
+81,Iran,Tehran,Rial,Persian
+82,Iraq,Baghdad,Iraqi dinar,Kurdish and Arabic
+83,Ireland,Dublin,Euro,English and Irish
+84,Israel,Jerusalem,New Shekel,Hebrew and Arabic
+85,Italy,Rome,Euro,Italian
+86,Jamaica,Kingston,Jamaican Dollar,English
+87,Japan,Tokyo,Yen,Japanese
+88,Jordan,Amman,Jordanian dinar,Arabic
+89,Kazakhstan,Astana,Tenge,Kazakh and Russian
+90,Kenya,Nairobi,Kenyan shilling,Swahili and English
+91,Kiribati,Tarawa Atoll,Australian dollar,English	 	 
+92,North Korea,Pyongyang,North Korean won,Korean
+93,South Korea,Seoul,South Korean won,Korean
+94,Kosovo,Pristina,Euro,Albanian and Serbian
+95,Kuwait,Kuwait City,Kuwaiti dinar,Arabic
+96,Kyrgyzstan,Bishkek,Som,Kyrgyz and Russian
+97,Laos,Vientiane,Kip,Lao
+98,Latvia,Riga,Euro,Latvian
+99,Lebanon,Beirut,Lebanese pound,Arabic
+100,Lesotho,Maseru,Lesotho loti,English and Sesotho
+101,Liberia,Monrovia,Liberian dollar,English
+102,Libya,Tripoli,Dinar,Arabic
+103,Liechtenstein,Vaduz,Swiss franc,German
+104,Lithuania,Vilnius,Euro,Lithuanian
+105,Luxembourg,Luxembourg,Euro,Luxembourgish French and German
+106,Macedonia,Skopje,Macedonian denar,Macedonian
+107,Madagascar,Antananarivo,Malagasy ariary,Malagasy and French
+108,Malawi,Lilongwe,Kwacha,English and Chichewa
+109,Malaysia,Kuala Lumpur,Ringgit,Malaysian
+110,Maldives,Male,Maldivian rufiyaa,Maldivian
+111,Mali,Bamako,CFA franc,French
+112,Malta,Valletta,Euro,Maltese and English
+113,Marshall Islands,Majuro,US dollar,English	 	 
+114,Mauritania,Nouakchott,Ouguiya,Arabic
+115,Mauritius,Port Louis,Mauritian rupee,Mauritian Creole French and English
+116,Mexico,Mexico City,Mexican peso,Spanish
+117,Micronesia, Federated States of Palikir,US dollar,English	 	 
+118,Moldova,Chisinau,Moldovan leu,Moldovan
+119,Monaco,Monaco,Euro,French
+120,Mongolia,Ulaanbaatar,T�gr�g,Mongolian
+121,Montenegro,Podgorica,Euro,Montenegrin
+122,Morocco,Rabat,Moroccan dirham,Arabic and Berber
+123,Mozambique,Maputo,Mozambican metical,Portuguese
+124,Myanmar (Burma),Naypyidaw,Kyat,Burmese
+125,Namibia,Windhoek,Namibian dollar,English
+126,Nauru,Yaren (de facto),Australian dollar,English	 	 
+127,Nepal,Kathmandu,Nepalese rupee,Nepali
+128,Netherlands (Holland),Amsterdam,Euro,Dutch
+129,New Zealand,Wellington,New Zealand Dollar,Maori New Zealand Sign and English
+130,Nicaragua,Managua,Nicaraguan cordoba,Spanish
+131,Niger,Niamey,CFA franc,French
+132,Nigeria,Abuja,Naira,English
+133,Norway,Oslo,Norwegian krone,Norwegian Bokm�l and Nynorsk
+134,Oman,Muscat,Rial,Arabic
+135,Pakistan,Islamabad,Pakistani Rupee,English and Urdu
+136,Palau,Melekeok,US dollar,English	 	 
+137,Panama,Panama City,United States Dollar Panamanian balboa,Spanish
+138,Papua New Guinea,Port Moresby,Papua New Guinean kina,English	 	 
+139,Paraguay,Asuncion,Guaran�,Spanish and Guaran�
+140,Peru,Lima,Nuevo sol,Spanish
+141,Philippines,Manila,Philippine Peso,Filipino and English
+142,Poland,Warsaw,Zloty,Polish
+143,Portugal,Lisbon,Euro,Portuguese
+144,Qatar,Doha,Riyal,Arabic
+145,Romania,Bucharest,Romanian leu,Romanian
+146,Russia,Moscow,Russian ruble,Russian and 27 others co-official
+147,Rwanda,Kigali,Rwandan franc,Kinyarwanda English and French
+148,Saint Kitts,Basseterre,East Caribbean Dollar,English
+149,Nevis,Basseterre,East Caribbean Dollar,English
+150,Saint Lucia,Castries,East Caribbean Dollar,English
+151,Saint Vincent,Kingstown,East Caribbean Dollar,English
+152,Grenadines,Kingstown,East Caribbean Dollar,English
+153,Samoa,Apia,Samoan tala,English	 	 
+154,San Marino,San Marino,Euro,Italian
+155,Sao Tome,Sao Tome,Dobra,Portuguese
+156,Principe,Sao Tome,Dobra,Portuguese
+157,Saudi Arabia,Riyadh,Saudi riyal,Arabic
+158,Senegal,Dakar,CFA franc,French
+159,Serbia,Belgrade,Serbian dinar,Serbian
+160,Seychelles,Victoria,Seychellois rupee,Seychellois Creole French and English
+161,Sierra Leone,Freetown,Leone,English
+162,Singapore,Singapore,Singapore dollar,English Chinese Malay and Tamil
+163,Slovakia,Bratislava,Euro,Slovak
+164,Slovenia,Ljubljana,Euro,Slovene
+165,Solomon Islands,Honiara,Solomon Islands dollar,English	 	 
+166,Somalia,Mogadishu,Somali shilling,Somali and Arabic
+167,South Africa,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),South African rand,Afrikaans English and 9 other
+168,South Sudan,Juba,South Sudanese pound,English
+169,Spain,Madrid,Euro,Spanish Catalan Galician and Basque
+170,Sri Lanka,Sri Jayewardenepura Kotte (administrative); Colombo (trade),Sri Lankan rupee,Sinhala and Tamil
+171,Sudan,Khartoum,Sudanese pound,Arabic and English
+172,Suriname,Paramaribo,Surinamese dollar,Dutch
+173,Swaziland,Mbabane(Administrative) / Lobamba (Royal and Legislative),Lilangeni,English and Swati
+174,Sweden,Stockholm,Swedish krona,Swedish
+175,Switzerland,Bern,Swiss franc,German French Italian and Romansh
+176,Syria,Damascus,Syrian pound,Arabic
+177,Taiwan,Taipei,New Taiwan dollar,Standard Chinese
+178,Tajikistan,Dushanbe,Somoni,Tajik
+179,Tanzania,Dodoma (administrative); Dar es Salaam,Tanzanian shilling,Swahili and English
+180,Thailand,Bangkok,Baht,Thai
+181,Togo,Lome,CFA franc,French
+182,Tonga,Nuku�alofa,Tongan pa?anga,English	 	 
+183,Trinidad,Port-of-Spain,Trinidad and Dollar,English
+184,Tobago,Port-of-Spain,Tobago Dollar,English
+185,Tunisia,Tunis,Tunisian dinar,Arabic
+186,Turkey,Ankara,Turkish lira,Turkish
+187,Turkmenistan,Ashgabat,Turkmen new manat,Turkmen
+188,Tuvalu,Funafuti province,Australian dollar,English	 	 
+189,Uganda,Kampala,Ugandan shilling,Swahili English and Luganda
+190,Ukraine,Kyiv,Ukrainian hryvnia,Ukrainian
+191,United Arab Emirates,Abu Dhabi,UAE dirham,Arabic
+192,United Kingdom,London,Pound sterling,English
+193,United States of America,Washington D.C.,United States Dollar,English
+194,Uruguay,Montevideo,Uruguayan peso,Spanish
+195,Uzbekistan,Tashkent,Uzbekistan som (O�zbekiston so�mi),Uzbek
+196,Vanuatu,Port-Vila,Vanuatu vatu,Bislama French and English
+197,Vatican City (Holy See),Vatican City,Euro,Italian

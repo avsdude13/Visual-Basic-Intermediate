@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB8230FB-5F50-45A1-A72B-ACA7E7CD1598}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Project.My.MyApplication</StartupObject>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Project</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Project.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculatorForm.Designer.vb">
+      <DependentUpon>CalculatorForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DateForm.Designer.vb">
+      <DependentUpon>DateForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FactorsForm.Designer.vb">
+      <DependentUpon>FactorsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FactorsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CountryForm.Designer.vb">
+      <DependentUpon>CountryForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CountryForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileReadWriteForm.Designer.vb">
+      <DependentUpon>FileReadWriteForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileReadWriteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordForm.Designer.vb">
+      <DependentUpon>PasswordForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PowersForm.Designer.vb">
+      <DependentUpon>PowersForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PowersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresidentsForm.Designer.vb">
+      <DependentUpon>PresidentsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PresidentsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TripleForm.Designer.vb">
+      <DependentUpon>TripleForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TripleForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GradesForm.Designer.vb">
+      <DependentUpon>GradesForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GradesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MathForm.Designer.vb">
+      <DependentUpon>MathForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MathForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NameForm.Designer.vb">
+      <DependentUpon>NameForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SelectorForm.Designer.vb">
+      <DependentUpon>SelectorForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemperatureForm.Designer.vb">
+      <DependentUpon>TemperatureForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TemperatureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnitedNationsForm.Designer.vb">
+      <DependentUpon>UnitedNationsForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnitedNationsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculatorForm.resx">
+      <DependentUpon>CalculatorForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CountryForm.resx">
+      <DependentUpon>CountryForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateForm.resx">
+      <DependentUpon>DateForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FactorsForm.resx">
+      <DependentUpon>FactorsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileReadWriteForm.resx">
+      <DependentUpon>FileReadWriteForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordForm.resx">
+      <DependentUpon>PasswordForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PowersForm.resx">
+      <DependentUpon>PowersForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresidentsForm.resx">
+      <DependentUpon>PresidentsForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TripleForm.resx">
+      <DependentUpon>TripleForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GradesForm.resx">
+      <DependentUpon>GradesForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MathForm.resx">
+      <DependentUpon>MathForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NameForm.resx">
+      <DependentUpon>NameForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectorForm.resx">
+      <DependentUpon>SelectorForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemperatureForm.resx">
+      <DependentUpon>TemperatureForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnitedNationsForm.resx">
+      <DependentUpon>UnitedNationsForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
