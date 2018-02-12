@@ -1,0 +1,4 @@
+C:\Users\mkline6\Documents\Visual Studio 2012\Projects\WaltDisney\WaltDisney\WaltDisney\bin\Debug\WaltDisney.exe.config
+C:\Users\mkline6\Documents\Visual Studio 2012\Projects\WaltDisney\WaltDisney\WaltDisney\obj\Debug\WaltDisney.exe
+C:\Users\mkline6\Documents\Visual Studio 2012\Projects\WaltDisney\WaltDisney\WaltDisney\obj\Debug\WaltDisney.xml
+C:\Users\mkline6\Documents\Visual Studio 2012\Projects\WaltDisney\WaltDisney\WaltDisney\obj\Debug\WaltDisney.pdb

@@ -1,0 +1,12 @@
+Afganisthan,Asia,29117000
+Canada,North America,34207000
+Australia,Australia,23480970
+India,Asia,1184639000
+United States,North America,34207000 
+France,Europe,211209
+New Zealand,Australia,103738
+Nigeria,Africa,356669
+Pakistan,Asia,310403
+Peru,South America,496226
+Brazil,South America,322100
+England,Europe,62041708
